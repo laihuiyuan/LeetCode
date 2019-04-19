@@ -3,11 +3,11 @@
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/TwoSum.cpp)、[Java Solution](https://github.com/laihuiyuan/LeetCode/blob/master/java/TwoSum.java)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/AddTwoNumbers.cpp)、[Java Solution](https://github.com/laihuiyuan/LeetCode/blob/master/java/AddTwoNumbers.java)|Easy|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|C++ Solution、Java Solution|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/LongestSubstringWithoutRepeatingCharacters.cpp)、[Java Solution](https://github.com/laihuiyuan/LeetCode/blob/master/java/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|C++ Solution、Java Solution|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[C++ solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/LongestPalindromicSubstring.cpp)、Java Solution|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/ZigZagConversion.cpp)、Java Solution|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|C++ Solution、[Java Solution](https://github.com/laihuiyuan/LeetCode/blob/master/java/ReverseInteger.java)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/ReverseInteger.cpp)、[Java Solution](https://github.com/laihuiyuan/LeetCode/blob/master/java/ReverseInteger.java)|Easy|
 |8|[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/StringToIntegerAtoi.cpp)、Java Solution|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|C++ Solution、Java Solution|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|C++ Solution、Java Solution|Hard|
