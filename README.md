@@ -9,7 +9,7 @@
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/ZigZagConversion.cpp)、Java Solution|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/ReverseInteger.cpp)、[Java Solution](https://github.com/laihuiyuan/LeetCode/blob/master/java/ReverseInteger.java)|Easy|
 |8|[String to Integer(atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/StringToIntegerAtoi.cpp)、Java Solution|Medium|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|C++ Solution、Java Solution|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/PalindromeNumber.cpp)、Java Solution|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|C++ Solution、Java Solution|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|C++ Solution、Java Solution|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|C++ Solution、Java Solution|Medium|
