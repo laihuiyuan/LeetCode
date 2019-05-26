@@ -13,7 +13,7 @@
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|C++ Solution、Java Solution|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/ContainerWithMostWater.cpp)、Java Solution|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/IntegerToRoman.cpp)、Java Solution|Medium|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|C++ Solution、Java Solution|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/RomanToInteger.cpp)、Java Solution|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefixg)|C++ Solution、Java Solution|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/3Sum.cpp)、Java Solution|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/3SumClosest.cpp)、Java Solution|Medium|
@@ -23,6 +23,6 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/ValidParentheses.cpp)、Java Solution|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/MergeTwoSortedLists.cpp)、Java Solution|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/GenerateParentheses.cpp)、Java Solution|Easy|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|C++ Solution、Java Solution|Hard|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|C++ Solution[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/MergeKSortedLists.cpp)、Java Solution|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|C++ Solution、Java Solution|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|C++ Solution、Java Solution|Hard|
