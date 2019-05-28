@@ -23,6 +23,6 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/ValidParentheses.cpp)、Java Solution|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/MergeTwoSortedLists.cpp)、Java Solution|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/GenerateParentheses.cpp)、Java Solution|Easy|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|C++ Solution[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/MergeKSortedLists.cpp)、Java Solution|Hard|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|C++ Solution、Java Solution|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/MergeKSortedLists.cpp)、Java Solution|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/SwapNodesInPairs.cpp)、Java Solution|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|C++ Solution、Java Solution|Hard|
