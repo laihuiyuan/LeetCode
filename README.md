@@ -27,3 +27,4 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/SwapNodesInPairs.cpp)、Java Solution|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|C++ Solution、Java Solution|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/RemoveDuplicatesFromSortedArray.cpp)、Java Solution|Easy|
+|27|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++ Solution](https://github.com/laihuiyuan/LeetCode/blob/master/cpp/RemoveDuplicatesFromSortedArray.cpp)、Java Solution|Easy|
